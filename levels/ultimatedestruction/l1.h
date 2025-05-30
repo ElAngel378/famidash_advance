@@ -1,4 +1,0 @@
-// Level Data Header
-#define ULTIMATEDESTRUCTION_l1_TOTAL_BLOCKS 18171
-#define ULTIMATEDESTRUCTION_l1_RLE_DATA_SIZE 2296
-extern const unsigned short ultimatedestruction_l1_level_data[ULTIMATEDESTRUCTION_l1_RLE_DATA_SIZE];
